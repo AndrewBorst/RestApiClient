@@ -1,0 +1,11 @@
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\bin\Debug\netcoreapp2.0\RestClient.deps.json
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\bin\Debug\netcoreapp2.0\RestClient.runtimeconfig.json
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\bin\Debug\netcoreapp2.0\RestClient.runtimeconfig.dev.json
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\bin\Debug\netcoreapp2.0\RestClient.dll
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.csprojResolveAssemblyReference.cache
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.AssemblyInfoInputs.cache
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.AssemblyInfo.cs
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\bin\Debug\netcoreapp2.0\RestClient.pdb
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.dll
+C:\Users\aborst\Documents\Visual Studio 2017\Projects\RestClient\RestClient\obj\Debug\netcoreapp2.0\RestClient.pdb
