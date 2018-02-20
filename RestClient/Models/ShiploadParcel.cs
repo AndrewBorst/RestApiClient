@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace RestClient.Models
+namespace RestApiClient.Models
 {
     public partial class ShiploadParcel
     {

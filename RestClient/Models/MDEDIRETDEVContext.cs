@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace RestClient.Models
+namespace RestApiClient.Models
 {
     public partial class MDEDIRETDEVContext : DbContext
     {
